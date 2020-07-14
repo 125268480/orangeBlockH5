@@ -2,6 +2,7 @@
 
 ## Project setup
 ```
+打包
 yarn install
 ```
 
